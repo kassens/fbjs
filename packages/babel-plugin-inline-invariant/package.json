@@ -1,0 +1,13 @@
+{
+  "name": "babel-plugin-inline-invariant",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "facebook/fbjs",
+  "license": "BSD-3-Clause",
+  "files": [
+    "LICENSE",
+    "PATENTS",
+    "README.md",
+    "index.js",
+  ]
+}
